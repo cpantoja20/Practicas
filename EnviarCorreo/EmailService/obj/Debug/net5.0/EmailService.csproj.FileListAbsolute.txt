@@ -1,0 +1,12 @@
+D:\Documents\UPC\2021_1\Web\Proyectos\EmailService\EnviarCorreo\EmailService\bin\Debug\net5.0\EmailService.deps.json
+D:\Documents\UPC\2021_1\Web\Proyectos\EmailService\EnviarCorreo\EmailService\bin\Debug\net5.0\EmailService.dll
+D:\Documents\UPC\2021_1\Web\Proyectos\EmailService\EnviarCorreo\EmailService\bin\Debug\net5.0\ref\EmailService.dll
+D:\Documents\UPC\2021_1\Web\Proyectos\EmailService\EnviarCorreo\EmailService\bin\Debug\net5.0\EmailService.pdb
+D:\Documents\UPC\2021_1\Web\Proyectos\EmailService\EnviarCorreo\EmailService\obj\Debug\net5.0\EmailService.csprojAssemblyReference.cache
+D:\Documents\UPC\2021_1\Web\Proyectos\EmailService\EnviarCorreo\EmailService\obj\Debug\net5.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\UPC\2021_1\Web\Proyectos\EmailService\EnviarCorreo\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfoInputs.cache
+D:\Documents\UPC\2021_1\Web\Proyectos\EmailService\EnviarCorreo\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfo.cs
+D:\Documents\UPC\2021_1\Web\Proyectos\EmailService\EnviarCorreo\EmailService\obj\Debug\net5.0\EmailService.csproj.CoreCompileInputs.cache
+D:\Documents\UPC\2021_1\Web\Proyectos\EmailService\EnviarCorreo\EmailService\obj\Debug\net5.0\EmailService.dll
+D:\Documents\UPC\2021_1\Web\Proyectos\EmailService\EnviarCorreo\EmailService\obj\Debug\net5.0\ref\EmailService.dll
+D:\Documents\UPC\2021_1\Web\Proyectos\EmailService\EnviarCorreo\EmailService\obj\Debug\net5.0\EmailService.pdb
